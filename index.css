@@ -1,6 +1,5 @@
 .bodyindex{
     background-color: rgb(123, 204, 123);
-    background-image: url(imagens5rs/imgfundogreen1.png);
 }
 
 .bodyform{
@@ -9,7 +8,11 @@
 
 .nav{
     text-align: center;
-    background-color: rgb(55, 183, 51);
+    background-color: rgb(122, 226, 119);
+}
+
+a:link{
+    text-decoration: none;
 }
 
 .nav ul li{
@@ -33,5 +36,5 @@
 
 .rodape{
     color: black;
-    background-color: rgb(24, 181, 24);
+    background-color: rgb(122, 226, 119);
 }
